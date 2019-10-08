@@ -77,6 +77,8 @@ void setup(){                                              //
 void loop(){}                                              //
 ```
 
+> Больше примеров на нашей [wiki](https://wiki.iarduino.ru/page/OLED_trema/#h3_6)
+
 ## Назначение функций и переменных 
 
 **Подключаем библиотеку:**
