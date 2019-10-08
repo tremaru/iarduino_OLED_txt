@@ -15,6 +15,7 @@
 |--|--|
 | ![](https://wiki.iarduino.ru/img/resources/830/830.svg) | https://iarduino.ru/shop/Displei/ekran-0-96-128x64-oled-i2c-belyy.html |
 
+
 ## Примеры:
 
 **Вывод текста Кириллицей с указанием разных кодировок**
@@ -80,6 +81,7 @@ void loop(){}                                              //
 ---
 ## Больше примеров на нашей [wiki](https://wiki.iarduino.ru/page/OLED_trema/#h3_6)
 ---
+
 
 ## Назначение функций и переменных 
 
