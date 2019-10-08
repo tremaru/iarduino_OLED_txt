@@ -13,7 +13,7 @@
 
 | Модель | Ссылка на магазин |
 |--|--|
-| ![](https://wiki.iarduino.ru/img/resources/830/830.svg) | https://iarduino.ru/shop/Expansion-payments/multi-servo-shield-na-16-servoprivodov.html |
+| ![](https://wiki.iarduino.ru/img/resources/830/830.svg) | https://iarduino.ru/shop/Displei/ekran-0-96-128x64-oled-i2c-belyy.html |
 
 ## Примеры:
 
